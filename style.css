@@ -19,3 +19,7 @@ header {
 .chamada-texto {
     margin-right: 20px;
 }
+
+img {
+    height: 200px;
+}
